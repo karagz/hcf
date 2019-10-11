@@ -3,7 +3,7 @@
 # define a function
 def computeHCF(x, y):
     # choose the smaller number
-    if:
+    if x>y:
         smaller = y
     else:
         smaller = x
